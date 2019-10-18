@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [各种语各种词](各种语各种词.md)
 * [Morphology](Morphology/README.md)
     * [Noun](Morphology/Noun.md)
     * [Article](Morphology/Article.md)
